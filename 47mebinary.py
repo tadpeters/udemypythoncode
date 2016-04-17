@@ -57,9 +57,9 @@ if binary or hex display list result in quads
 if base = 8 display list result in octets
 
 """
-# 5	2 1
-# 1	1 0
-#	1 0 1
+# 5 2 1
+# 1 1 0
+# 1 0 1
 # 5 = 101
 
 
