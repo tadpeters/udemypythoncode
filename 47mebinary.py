@@ -1,23 +1,3 @@
-<<<<<<< HEAD
-
-||||||| merged common ancestors
-# for i in range (17):
-# 	print("{0:>2} in binary is {0:>08b}".format(i))
-
-# for i in range (17):
-# 	print("{0:>2} in binary is {0:>02x}".format(i))
-
-# x = 20
-# y = 0x20
-# z = 0xa
-# b = 0b101010
-
-# print (b)
-# print( x, y)
-# print( z * y)
-
-=======
->>>>>>> update
 # When converting a decimal number to binary, you look for the highest power
 # of 2 smaller than the number and put a 1 in that column. You then take the
 # remainder and repeat the process with the next highest power - putting a 1
