@@ -62,19 +62,3 @@ if base = 8 display list result in octets
 #	1 0 1
 
 
-"""
-
-
-a number divided by a power of 2
-if true put a 1
-subrtract the power
-100 -64 = 38
-38 - 32 = 6
-6 - 4 = 2
-2- 2 = 0
-
-2^0 2^1 2^2 2^3 2^4 2^5 2^6  2^7 2^8
- 1   2   4   8   16  32  64  128 256
-
-"""
-print (2 ** 1)
