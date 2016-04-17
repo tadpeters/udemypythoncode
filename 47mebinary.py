@@ -39,7 +39,7 @@ get a number from user. (number)
 
 declare variables
 xpont = 15
-base = 2 8 or 16 or anything.
+base = 2 or 8.
 range is 15 to 0 by -1's
 digitCatcher = []
 
@@ -53,12 +53,13 @@ no
 	append 0 to list (digitCatcher)
 	test again
 
-if binary or hex display list result in quads (like the old days)
+if binary or hex display list result in quads 
 if base = 8 display list result in octets
 
 """
 # 5	2 1
 # 1	1 0
 #	1 0 1
+# 5 = 101
 
 
